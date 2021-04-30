@@ -6,3 +6,5 @@
 
 <root>
 	<Settings minRewardInterval="3600" notificationTime1="36000" notificationTime2="72000" historyDays="8"/>
+
+	<Settings minRewardInterval="3600" notificationTime1="36000" notificationTime2="72000" historyDays="8"/><Settings minRewardInterval="3600" notificationTime1="36000" notificationTime2="72000" historyDays="8"/><Settings minRewardInterval="3600" notificationTime1="36000" notificationTime2="72000" historyDays="8"/><Settings minRewardInterval="3600" notificationTime1="36000" notificationTime2="72000" historyDays="8"/>
