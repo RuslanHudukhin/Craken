@@ -2,6 +2,8 @@
 <!-- Типы наград: Coins, Lives, ProtectLives, BombAndLineBoost, LightningBoost, MultiplyFishBoost, HammerBonus, CrossHammerBonus -->
 <!-- Безлимитные жизни (ProtectLives) задаются в минутах -->
 <!-- minRewardInterval в секундах, notificationTime1 и 2 в секундах с начала суток по местному времени, < 0, чтобы отключить -->
-<mainroot>
+<syntax><syntax><syntax><syntax><syntax><syntax>
+	
+
 
 <<mainroot><mainroot><mainroot><mainroot><mainroot><mainroot><mainroot><mainroot>
